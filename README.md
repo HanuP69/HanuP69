@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Tanishk S Pandey, a second year student at National Institute of Technology, Jamshedpur.
+I am Tanishk S Pandey, a second year student at National Institute of Technology, Jamshedpur (2028 batch, pursuing Computer Science and Engineering).
 
 🌱 I’m currently learning Artificial Intelligence, Deep Learning and GenAI.
 
