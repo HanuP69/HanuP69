@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:cba6f7,100:f5c2e7&height=220&section=header&text=Tanishk%20S%20Pandey&fontSize=55&fontColor=cdd6f4&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20%40%20NIT%20Jamshedpur%20%7C%20ML%20%2F%206G%20Research&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:cba6f7,100:f5c2e7&height=220&section=header&text=Tanishk%20S%20Pandey&fontSize=55&fontColor=cdd6f4&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20%40%20NIT%20Jamshedpur%20%7C%20DL%20%2F%20Web%20Dev%20%2F%20AI%20Engg&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://media1.tenor.com/m/7dr3AgyEiN0AAAAC/anime-girl-wave.gif" width="180"/>
 
@@ -19,9 +19,9 @@
 name: Tanishk S Pandey
 college: NIT Jamshedpur (2024 batch, CSE)
 roll_no: 2024UGCS037
-cgpa: 9.18  
+cgpa: 9.18  # rank ~7/110
 club: PCON — ML Wing
-status: moew
+status: placements ~1 year away, grinding daily
 ```
 
 ###  Past wins
