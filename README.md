@@ -19,7 +19,7 @@
 name: Tanishk S Pandey
 college: NIT Jamshedpur (2024 batch, CSE)
 roll_no: 2024UGCS037
-cgpa: 9.18  # rank ~7/110
+cgpa: 9.18 
 club: PCON — ML Wing
 status: placements ~1 year away, grinding daily
 ```
