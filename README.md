@@ -1,64 +1,25 @@
-<div align="center">
+# Tanishk S Pandey
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:cba6f7,100:f5c2e7&height=220&section=header&text=Tanishk%20S%20Pandey&fontSize=55&fontColor=cdd6f4&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20%40%20NIT%20Jamshedpur%20%7C%20DL%20%2F%20Web%20Dev%20%2F%20AI%20Engg&descAlignY=55&descSize=18" width="100%"/>
+<img align="right" width="150" src="https://i1.sndcdn.com/artworks-a97bKtSqgVNU2sM9-0enDuQ-t500x500.jpg" alt="Tanishk S Pandey"/>
 
-<img src="https://media1.tenor.com/m/7dr3AgyEiN0AAAAC/anime-girl-wave.gif" width="180"/>
+B.Tech CSE student at NIT Jamshedpur (2024 batch).
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Tanishk;Tanishk,+I'm;Am+I+Tanishk&font=Fira%20Code&center=true&width=600&height=50&color=cba6f7&vCenter=true&size=24&pause=1200&background=00000000"/>
+[GitHub](https://github.com/HanuP69) · [Codeforces](https://codeforces.com/profile/tan69) · [LinkedIn](https://in.linkedin.com/in/tanishk-s-pandey-17a007339)
 
-</div>
+<br clear="right"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+## Tech Stack
 
-<table>
-<tr>
-<td width="60%" valign="top">
+**Languages:**
+![HTML](https://img.shields.io/badge/HTML-1e1e2e?style=for-the-badge&logo=html5&logoColor=fab387)
+![CSS](https://img.shields.io/badge/CSS-1e1e2e?style=for-the-badge&logo=css&logoColor=89b4fa)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=f9e2af)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=89b4fa)
+![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=cba6f7)
+![C](https://img.shields.io/badge/C-1e1e2e?style=for-the-badge&logo=c&logoColor=89dceb)
+![C++](https://img.shields.io/badge/C%2B%2B-1e1e2e?style=for-the-badge&logo=cplusplus&logoColor=89b4fa)
 
-### `whoami`
-```yaml
-name: Tanishk S Pandey
-college: NIT Jamshedpur (2024 batch, CSE)
-roll_no: 2024UGCS037
-cgpa: 9.18 
-club: PCON — ML Wing
-status: placements ~1 year away, grinding daily
-```
-
-###  Past wins
-- Catch the Liar (NLP) — 1st place, ~90.4% private acc
-- Operation Sentinel — police scheduling w/ graph algos, 1st place
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://media1.tenor.com/m/t8rp6pY-Wl8AAAAd/typing-anime-coding.gif" width="260"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<div align="center">
-
-###  Stats
-
-<img src="https://raw.githubusercontent.com/HanuP69/HanuP69/output/github-stats.svg" height="165"/>
-<img src="https://raw.githubusercontent.com/HanuP69/HanuP69/output/github-streak.svg" height="165"/>
-
-<img src="https://raw.githubusercontent.com/HanuP69/HanuP69/output/top-langs.svg" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HanuP69&theme=catppuccin-mocha&hide_border=true&area=true" width="95%"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<div align="center">
-
-###  Tech Stack
-
-**SDE**
+**Web:**
 ![React](https://img.shields.io/badge/React-1e1e2e?style=for-the-badge&logo=react&logoColor=89dceb)
 ![Node.js](https://img.shields.io/badge/Node.js-1e1e2e?style=for-the-badge&logo=node.js&logoColor=a6e3a1)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1e1e2e?style=for-the-badge&logo=fastapi&logoColor=94e2d5)
@@ -68,7 +29,7 @@ status: placements ~1 year away, grinding daily
 ![Docker](https://img.shields.io/badge/Docker-1e1e2e?style=for-the-badge&logo=docker&logoColor=89dceb)
 ![Redis](https://img.shields.io/badge/Redis-1e1e2e?style=for-the-badge&logo=redis&logoColor=f38ba8)
 
-**ML / DL**
+**ML / DL:**
 ![PyTorch](https://img.shields.io/badge/PyTorch-1e1e2e?style=for-the-badge&logo=pytorch&logoColor=f5c2e7)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-1e1e2e?style=for-the-badge&logo=scikitlearn&logoColor=fab387)
 ![XGBoost](https://img.shields.io/badge/XGBoost-1e1e2e?style=for-the-badge&logo=xgboost&logoColor=eba0ac)
@@ -76,57 +37,37 @@ status: placements ~1 year away, grinding daily
 ![Pandas](https://img.shields.io/badge/Pandas-1e1e2e?style=for-the-badge&logo=pandas&logoColor=cba6f7)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-1e1e2e?style=for-the-badge&logo=huggingface&logoColor=f9e2af)
 
-**CP / DSA**
-![C++](https://img.shields.io/badge/C%2B%2B-1e1e2e?style=for-the-badge&logo=cplusplus&logoColor=89b4fa)
+**CP / DSA:**
 ![Codeforces](https://img.shields.io/badge/Codeforces-1e1e2e?style=for-the-badge&logo=codeforces&logoColor=f38ba8)
 
-**Tools**
-![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=cba6f7)
+**Tools:**
 ![Git](https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=f38ba8)
 ![Linux](https://img.shields.io/badge/Linux-1e1e2e?style=for-the-badge&logo=linux&logoColor=a6e3a1)
 
-</div>
+## Projects
 
-<div align="center">
+<!-- Yahan apne 3-5 best repos list karo, is format mein:
+- [repo-name](https://github.com/HanuP69/repo-name): ek line mein kya karta hai
+-->
 
-###  CP Stats
+All repositories: [github.com/HanuP69?tab=repositories](https://github.com/HanuP69?tab=repositories)
 
-[**→ codeforces.com/profile/tan69**](https://codeforces.com/profile/tan69)
+## GitHub Stats
 
-</div>
+<p>
+  <img src="https://raw.githubusercontent.com/HanuP69/HanuP69/output/github-stats.svg" height="165" alt="GitHub stats"/>
+  <img src="https://raw.githubusercontent.com/HanuP69/HanuP69/output/github-streak.svg" height="165" alt="GitHub streak"/>
+  <img src="https://raw.githubusercontent.com/HanuP69/HanuP69/output/top-langs.svg" height="165" alt="Top languages"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HanuP69&theme=catppuccin-mocha&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/HanuP69/HanuP69/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution graph"/>
 
-###  Snake-eats-contributions
+## Competitive Programming
 
-<img src="https://raw.githubusercontent.com/HanuP69/HanuP69/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+Codeforces: [tan69](https://codeforces.com/profile/tan69)
 
-<sub>↑ requires the snake workflow below to be set up once (see notes)</sub>
+## Contact
 
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<div align="center">
-
-###  Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=cdd6f4)](https://github.com/HanuP69)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa)](#)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1e1e2e?style=for-the-badge&logo=codeforces&logoColor=f38ba8)](https://codeforces.com/profile/tan69)
-
-<br>
-
-![Profile views](https://komarev.com/ghpvc/?username=HanuP69&color=cba6f7&style=for-the-badge&label=Profile+Views)
-
-<br><br>
-
-###  Me waiting for placements to come
-
-<img src="https://media1.tenor.com/m/erElkDnmirQAAAAC/evernight-lonely.gif" width="160"/> <img src="https://media1.tenor.com/m/llL4RhSXKF0AAAAC/furina-lonely-dance.gif" width="160"/> <img src="https://media1.tenor.com/m/DZIov6xqVekAAAAC/nefer-genshin-nefer.gif" width="160"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5c2e7,50:cba6f7,100:1e1e2e&height=120&section=footer" width="100%"/>
+[GitHub](https://github.com/HanuP69) · [Codeforces](https://codeforces.com/profile/tan69) · [LinkedIn](https://in.linkedin.com/in/tanishk-s-pandey-17a007339)
